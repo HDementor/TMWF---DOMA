@@ -1,8 +1,8 @@
 ## TMWF DOMA
-#### Data Obfuscation and Masking App
+### Data Obfuscation and Masking App
 
-### Developers: Hamza Ansari, Omer Ansari, and Norah Khan
-### Create Date: 12.23.2021
+#### Developers: Hamza Ansari, Omer Ansari, and Norah Khan
+#### Create Date: 12.23.2021
 
 ## Summary:
 
