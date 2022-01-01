@@ -18,7 +18,7 @@ def index_flask():
 
 
 @app.route("/", defaults={'path':''})
-@app.route('/react_app', defaults={'path':''})
+#@app.route('/react_app', defaults={'path':''})
 def serve(path):
     return send_from_directory(app.static_folder,'index_react.html')
 
