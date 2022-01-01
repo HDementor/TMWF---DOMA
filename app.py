@@ -18,9 +18,8 @@ def index_flask():
 
 
 @app.route("/", defaults={'path':''})
-#@app.route('/react_app', defaults={'path':''})
 def serve(path):
-    return send_from_directory(app.static_folder,'index_react.html')
+    return send_from_directory(app.static_folder,'index.html')
 
 api.add_resource(HelloApiHandler, '/flask/hello')
 
