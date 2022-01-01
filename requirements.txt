@@ -1,4 +1,6 @@
 Flask
+Flask-CORS
+Flask_RESTful
 Flask-Babel
 Flask-Bootstrap
 Flask-Moment
