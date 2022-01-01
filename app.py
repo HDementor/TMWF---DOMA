@@ -17,7 +17,7 @@ def index_flask():
     #return send_from_directory(app.static_folder, 'index.html')
 
 
-@app.route("/", defaults={'path':''})
+@app.route("/r", defaults={'path':''})
 def serve(path):
     return send_from_directory(app.static_folder,'index.html')
 
