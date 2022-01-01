@@ -40,3 +40,5 @@ IB. How to run (in dev environment)
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
 For tips set up and run this in Pycharm, please watch this [video](https://www.youtube.com/watch?v=bZUokrYanFM&feature=youtu.be).
+
+- triggering heroku push update
